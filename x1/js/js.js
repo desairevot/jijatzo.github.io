@@ -72,9 +72,9 @@ function setupCopyButton(buttonId, textToCopy) {
 }
 
 // Configurar cada botón con su texto correspondiente
-setupCopyButton('copyaddress1', '0xc413784b6b39a6e3eb7a3f84a6b2e58faa1c0917');
-setupCopyButton('copyaddress2', '2Zq4zAdJPsGX4jTC4Rx18YRqgpkKcoAifatvq2tBEVXt');
-setupCopyButton('copyaddress3', 'bc1q02k88eguptr0jdw3j4l2t4fzwksp9n9lm05dmr');
+setupCopyButton('copyaddress1', '0x3cc9DD78565d185B9a4667E2Fe1A71df5C5538a1');
+setupCopyButton('copyaddress2', 'EEhETqLdutnK4Q8whAiDehqVSvgMyxQVfS2yGrppJBYf');
+setupCopyButton('copyaddress3', 'bc1q22tr9a6ldcxeg9zg043vx6wy5x277hfl35zajh');
 setupCopyButton('copyaddress4', '');
 setupCopyButton('copyaddress5', '');
 
@@ -83,9 +83,9 @@ setupCopyButton('copyaddress5', '');
 
 
 // Cambiar el contenido de los elementos con ID direccion-1, direccion-2 y direccion-3
-document.getElementById('direccion-1').textContent = '0xc413784b6b39a6e3eb7a3f84a6b2e58faa1c0917';
-document.getElementById('direccion-2').textContent = '2Zq4zAdJPsGX4jTC4Rx18YRqgpkKcoAifatvq2tBEVXt';
-document.getElementById('direccion-3').textContent = 'bc1q02k88eguptr0jdw3j4l2t4fzwksp9n9lm05dmr';
+document.getElementById('direccion-1').textContent = '0x3cc9DD78565d185B9a4667E2Fe1A71df5C5538a1';
+document.getElementById('direccion-2').textContent = 'EEhETqLdutnK4Q8whAiDehqVSvgMyxQVfS2yGrppJBYf';
+document.getElementById('direccion-3').textContent = 'bc1q22tr9a6ldcxeg9zg043vx6wy5x277hfl35zajh';
 
 
 
