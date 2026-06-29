@@ -7,8 +7,8 @@
         { id: "button5", suffix: "JQGCNIY6" },
         { id: "button6", suffix: "7VW4UT3L" },
         { id: "button7", suffix: "KCRFTJ8I" },
-        { id: "button8", suffix: "I7D56AGR" },
-        { id: "button9", suffix: "Z1GNTPGE" }
+        { id: "button8", suffix: "L18P25YH" },
+        { id: "button9", suffix: "37YCDGR1" }
     ];
 
     // Función para agregar eventos a los botones
